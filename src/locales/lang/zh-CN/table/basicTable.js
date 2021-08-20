@@ -1,0 +1,21 @@
+export default {
+  'table.basic-table.basic.create': '新增',
+  'table.basic-table.basic.read': '查看',
+  'table.basic-table.basic.update': '更新',
+  'table.basic-table.basic.delete': '删除',
+  'table.basic-table.basic.detail': '详情',
+  'table.basic-table.basic.more': '更多',
+  'table.basic-table.basic.query': '查询',
+  'table.basic-table.basic.search': '搜索',
+  'table.basic-table.basic.reset': '重置',
+  'table.basic-table.basic.unfold': '展开',
+  'table.basic-table.basic.fold': '收起',
+  'table.basic-table.basic.lock': '锁定',
+  'table.basic-table.basic.unlock': '解锁',
+  'table.basic-table.basic.batch': '批量操作',
+  'table.basic-table.basic.action': '操作',
+  'table.basic-table.basic.status': '状态',
+  'table.basic-table.basic.description': '描述',
+  'table.basic-table.basic.updateTime': '更新时间',
+  'table.basic-table.basic.createTime': '建立时间'
+}

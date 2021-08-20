@@ -1,0 +1,21 @@
+export default {
+  'table.basic-table.basic.create': 'Create',
+  'table.basic-table.basic.read': 'Read',
+  'table.basic-table.basic.search': 'Search',
+  'table.basic-table.basic.update': 'Update',
+  'table.basic-table.basic.delete': 'Delete',
+  'table.basic-table.basic.detail': 'Detail',
+  'table.basic-table.basic.more': 'More',
+  'table.basic-table.basic.query': 'Query',
+  'table.basic-table.basic.reset': 'Reset',
+  'table.basic-table.basic.unfold': 'Unfold',
+  'table.basic-table.basic.fold': 'Fold',
+  'table.basic-table.basic.lock': 'Lock',
+  'table.basic-table.basic.unlock': 'Unlock',
+  'table.basic-table.basic.batch': 'Batch',
+  'table.basic-table.basic.action': 'Action',
+  'table.basic-table.basic.status': 'Status',
+  'table.basic-table.basic.description': 'Description',
+  'table.basic-table.basic.updateTime': 'UpdateTime',
+  'table.basic-table.basic.createTime': 'createTime'
+}
